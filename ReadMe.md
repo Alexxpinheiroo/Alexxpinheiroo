@@ -1,15 +1,60 @@
-# 💫 About Me:
-👋 Hi, I’m @Alexxpinheiroo<br>👀 I’m interested in software development, remote tech support, and innovative digital solutions.<br>🌱 I’m currently learning Python, JavaScript, HTML5, and CSS3, focusing on full-stack development.<br>💞️ I’m looking to collaborate on tech projects, automation, and AI-driven solutions.<br>📫 How to reach me: You can contact me via WhatsApp at +55 99713-8212.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I have over 10k hours of experience playing Ark: Survival Evolved and enjoy learning about technology in my free time.
+<h2 align="left">Hi 👋! My name is Alex Pinheiro and I'm a Software Engineer Student, from Brazil.</h2>
 
+###
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.jackgamer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alexx_pinheiroo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-pinheiro-26919ab8) 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexxpinheiroo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexxpinheiroo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alexxpinheiroo&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alexxpinheiroo&theme=solarized-light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxpinheiroo&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://wa.me/5555981316230" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/alexx_pinheiroo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/.jackgamer" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://linkedin.com/in/alex-pinheiro-26919ab8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+### 💫 About Me:
+- 👋 Hi, I’m **@Alexxpinheiroo**
+- 👀 I’m interested in **Software Development, Remote Tech Support, and Automation**.
+- 🌱 I’m currently learning **React, Python and Full-Stack development**.
+- 💞️ I’m looking to collaborate on **Open Source projects and AI-driven solutions**.
+- ⚡ Fun fact: I have over **10k hours** of experience in **Ark: Survival Evolved**.
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexxpinheiroo&theme=dracula&hide_border=false" alt="streak stats" />
+
+###
