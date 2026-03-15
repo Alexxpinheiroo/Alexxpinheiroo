@@ -18,9 +18,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -60,3 +60,7 @@
 - 👀 Interessado em **Desenvolvimento Full-Stack e Soluções em Nuvem**.
 - 🌱 Estudando atualmente: **Engenharia de Software (React, Python, MySQL)**.
 - ⚡ Curiosidade: Mais de **10 mil horas** de sobrevivência em **Ark: Survival Evolved**.
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexxpinheiroo&theme=dracula&hide_border=false" alt="streak stats" />
