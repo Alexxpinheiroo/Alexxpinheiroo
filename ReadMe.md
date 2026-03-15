@@ -45,6 +45,16 @@
 
 ---
 
+### 🎮 Discord Status
+
+<p align="center">
+  <a href="https://discord.gg/.jackgamer">
+    <img src="https://lanyard.cnrad.dev/api/1325864876981022772?theme=dark&bg=0a0a0a&borderRadius=10px&animated=true&hideDiscrim=true&idleMessage=Programando%20algo%20top..." alt="Discord Status"/>
+  </a>
+</p>
+
+---
+
 ### 📊 Estatísticas do Perfil
 
 <div align="center">
