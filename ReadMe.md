@@ -5,20 +5,20 @@
 **`Engenheiro de Software em formação | Especialista em TI com +10 anos de estrada`**
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/alex-pinheiro-26919ab8/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.instagram.com/alexx_pinheiroo">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/alexx_pinheiroo/">
-        <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white" />
+    <a href="https://www.linkedin.com/in/alex-pinheiro-2691ba8">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://wa.me/5555981316230">
-        <img src="https://img.shields.io/badge/WhatsApp-0A0A0A?style=for-the-badge&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
     <a href="https://discord.gg/.jackgamer">
-        <img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=white" />
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
     <a href="https://x.com/AleXxMatHeus">
-        <img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=white" />
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
 </p>
 
@@ -58,22 +58,23 @@
 ### 📊 Estatísticas do Perfil
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexxpinheiroo&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxpinheiroo&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexxpinheiroo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxpinheiroo&layout=compact&langs_count=7&theme=dracula&hide_border=false"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexxpinheiroo&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexxpinheiroo&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 🧠 Sobre Mim
 
-*   🔭 Atualmente focado em **Engenharia de Software** e soluções escaláveis.
-*   🌱 Aprofundando conhecimentos em **React, Python e Banco de Dados**.
-*   💻 Mais de **10 anos de experiência** em TI, resolvendo problemas reais.
-*   ⚡ **Off-topic:** Mais de 10 mil horas de sobrevivência em Ark: Survival Evolved. Resiliência é meu sobrenome.
+*   👋 Olá, sou o **@Alexxpinheiroo**
+*   👀 Interessado em **Desenvolvimento Full-Stack e Soluções em Nuvem**.
+*   🌱 Estudando atualmente: **Engenharia de Software (React, Python, MySQL)**.
+*   💻 Mais de **10 anos de experiência** em TI.
+*   ⚡ **Curiosidade:** Mais de 10 mil horas de sobrevivência em **Ark: Survival Evolved**.
 
 ---
 
