@@ -79,9 +79,3 @@
 - 🎮 Fun fact: 10,000+ hours playing Ark Survival Evolved  
 
 ---
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Alexxpinheiroo/Alexxpinheiroo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
