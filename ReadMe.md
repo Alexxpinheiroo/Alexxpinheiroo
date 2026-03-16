@@ -83,5 +83,5 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/Alexxpinheiroo/Alexxpinheiroo/blob/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Alexxpinheiroo/Alexxpinheiroo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
